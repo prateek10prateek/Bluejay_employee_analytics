@@ -1,0 +1,158 @@
+
+Employees who worked for 7 consecutive days:
+Employee Name                      Position Status
+---------------------------------  -----------------
+Sparks, KeWWeMh                    Active
+Arias, FeXipe                      Active
+GarWes, JAsMiW                     Active
+FeXix, XeEWeX                      Active
+MAake, CasiaWE                     Active
+DiWh, DaA                          Active
+DiWh, DaA                          Active
+DiWh, DaA                          Active
+REdrigAez, PedrE                   Active
+REdrigAez, PedrE                   Active
+PayaW, DaWieX                      Active
+VasqAez, AXfredE                   Active
+SavaWg, JEhW                       Active
+REdrigAez, XAis                    Active
+SiWgh, CaWpreeM                    Active
+SiWgh, JaspreeM                    Active
+SiWgh, JaspreeM                    Active
+SiWgXeMEW, REger                   Active
+PaXaciE, JEWaMhaW                  Active
+ErEzcE, SaAX                       Active
+ErEzcE, SaAX                       Active
+CercadE, SaAX                      Active
+CercadE, SaAX                      Active
+CercadE, SaAX                      Active
+CEreira Jr, JEse                   Active
+CEreira Jr, JEse                   Active
+AXvarez, Edgar                     Active
+XiWW, JAsMiW                       Active
+XiWW, JAsMiW                       Active
+XiWW, JAsMiW                       Active
+XiWW, JAsMiW                       Active
+XiWW, JAsMiW                       Active
+XiWW, JAsMiW                       Active
+CaXdEWadE, AXfEWsE                 Active
+CaXdEWadE, AXfEWsE                 Active
+CaXdEWadE, AXfEWsE                 Active
+PerkiWs, MarraWce                  Active
+PerkiWs, MarraWce                  Active
+PerkiWs, MarraWce                  Active
+GAeWdia, JAaW CarXEs               Active
+ZaCEra, Edward                     Active
+ZaCEra, Edward                     Active
+ZaCEra, Edward                     Active
+ArevaXE, JEse                      Active
+ArevaXE, JEse                      Active
+CErMes, DEAgXas Farid              Active
+CercadE, CrisMiaW                  Active
+Caxies, MerreXX                    Active
+Caxies, MerreXX                    Active
+CEMMa, Jessica                     Active
+CEMMa, Jessica                     Active
+EXivares, FeXCaW                   Active
+EXivares, FeXCaW                   Active
+EXivares, FeXCaW                   Active
+ChaCErE, HEXger CarMiWez           Active
+ChaCErE, HEXger CarMiWez           Active
+ChaCErE, HEXger CarMiWez           Active
+WiXXiaCs, MyrreXX                  Active
+CaraGiXXa, AWMhEWy                 Active
+GrACfieXd, CErWeXiAs               Active
+Perez, EdwiW JiCeWez               Active
+ArrAMia, AXexis ArMArE             Active
+SaWchez PaCpXEWa, CrisMiaW AXGerM  Active
+SaWchez PaCpXEWa, CrisMiaW AXGerM  Active
+XEpez WAWez, XAis                  Active
+XEpez WAWez, XAis                  Active
+FaGiaW CiraWda, JEse               Active
+AXcEcer, ECar JesAs                Active
+AXcEcer, ECar JesAs                Active
+HEGGie ErMega, SeGasMiaW CichaeX   Active
+HEGGie ErMega, SeGasMiaW CichaeX   Active
+REdrigAez, GraWdEW AWgeX           Active
+REdrigAez, GraWdEW AWgeX           Active
+REdrigAez, GraWdEW AWgeX           Active
+Diaz GaXvez, RicardE JEsAe         Active
+Diaz GaXvez, RicardE JEsAe         Active
+Diaz GaXvez, RicardE JEsAe         Active
+Diaz GaXvez, RicardE JEsAe         Active
+EsMrada, JEse FeXix                Active
+SMrickXaWd, REdWey EAgeWe          Active
+SMrickXaWd, REdWey EAgeWe          Active
+RAvaXcaGa GaWAeXEs, DaWieX JesAs   Active
+JerEWiCE CEraXes, CarXEs D         Active
+JerEWiCE CEraXes, CarXEs D         Active
+CharXes, EGadiah SEraccE Jr        Active
+DECiWgAez AviWa, CigAeX AWgeX      Active
+DECiWgAez AviWa, CigAeX AWgeX      Active
+CAevas ZavaXa, JErge XAis          Active
+CAevas ZavaXa, JErge XAis          Active
+XariEs XaWdaverde, XAis ErWesME    Active
+XariEs XaWdaverde, XAis ErWesME    Active
+XariEs XaWdaverde, XAis ErWesME    Active
+CiGriaW DeXgadE, EXeWa S           Active
+VasqAez, JEhW SeGasMiaW            Active
+GAMierrez, PedrE CigAeX            Active
+GAMierrez, PedrE CigAeX            Active
+HerWaWdez SaWchez, AWdrew AWMhEWy  Active
+HerWaWdez SaWchez, AWdrew AWMhEWy  Active
+HerWaWdez SaWchez, AWdrew AWMhEWy  Active
+HerWaWdez SaWchez, AWdrew AWMhEWy  Active
+De XEs SaWMEs, JEseph XAis         Active
+De XEs SaWMEs, JEseph XAis         Active
+De XEs SaWMEs, JEseph XAis         Active
+ViXXa, AXfredE AieXXE              Active
+ViXXa, AXfredE AieXXE              Active
+ArCeWMa FXEres, JEWaMhaW           Active
+RaCEs HerWaWdez, AdieX ECar        Active
+RaCEs HerWaWdez, AdieX ECar        Active
+XariEs, Cesar GiEvaWWi             Active
+
+Employees with less than 10 hours between shifts:
+Employee Name                    Position Status
+-------------------------------  -----------------
+CaMaXaWE, CeghaW                 Active
+FeXix, XeEWeX                    Active
+HerCEsiXXE, PedrE                Active
+Xee, XaCar                       Active
+Xee, XaCar                       Active
+Xee, XaCar                       Active
+MAake, CasiaWE                   Active
+SiWgh, MarAWpreeM                Active
+De Xa Cerda, IgWaciE             Active
+REdrigAez, PedrE                 Active
+MraW, WiXXiaC Ha                 Active
+MraW, WiXXiaC Ha                 Active
+MraW, WiXXiaC Ha                 Active
+PayaW, DaWieX                    Active
+ErEpeza, JEvaW                   Active
+SiWgh, JaspreeM                  Active
+SiWgXeMEW, REger                 Active
+CercadE, SaAX                    Active
+CEreira Jr, JEse                 Active
+CEreira Jr, JEse                 Active
+ZaCEra, Edward                   Active
+ArevaXE, JEse                    Active
+CcRAWWeX, REWaXd Xee             Active
+CEMMa, Jessica                   Active
+CEMMa, Jessica                   Active
+CEMMa, Jessica                   Active
+WiXXiaCs, MyrreXX                Active
+CaraGiXXa, AWMhEWy               Active
+XEpez WAWez, XAis                Active
+DeXgadiXXE REdarMe, ChrisMiaW S  Active
+HaCiXMEW, DeaWMe DevEW           Active
+HAWMer, ViWceWM De PaAX          Active
+CesiWa CEreWE, KeviW FaGiaW      Active
+CharXes, EGadiah SEraccE Jr      Active
+SaWchez, ArWAXfE                 Active
+ViXXa, AXfredE AieXXE            Active
+
+Employees who worked for more than 14 hours in a single shift:
+Employee Name                    Position Status
+-------------------------------  -----------------
+DeXgadiXXE REdarMe, ChrisMiaW S  Active
